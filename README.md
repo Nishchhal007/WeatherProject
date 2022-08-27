@@ -3,7 +3,7 @@ An application of API
 
 Download All files in Your system
 Then run app.js
-localhost:3000
+Then copy and paste this in your browser  - localhost:3000
 
 Enter Your City Here!
 

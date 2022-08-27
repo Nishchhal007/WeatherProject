@@ -86,10 +86,10 @@ app.post("/",function (req,res){
                          <p class="details">Wind speed : ${windSpeed}km/h</p>
                        </div>
                        <div id="secCol" style="margin-left: 20px;">
-                         <p class="details">Feels like : ${feelsLike}</p>
-                         <p class="details">Min Temp : ${MinTemp}</p>
+                         <p class="details">Feels like : ${feelsLike}°C</p>
+                         <p class="details">Min Temp : ${MinTemp}°C</p>
                          <p class="details">Humidity : ${humidity}%</p>
-                         <p class="details">Wind deg : ${winddeg}</p>
+                         <p class="details">Wind deg : ${winddeg}°</p>
                          <p class="details">Location : ${location}</p>
                        </div>
                      </div>

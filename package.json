@@ -1,0 +1,22 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Here U can see weather of your city",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishchhal007/WeatherProject.git"
+  },
+  "author": "Nishchhal Pachouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishchhal007/WeatherProject/issues"
+  },
+  "homepage": "https://github.com/Nishchhal007/WeatherProject#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

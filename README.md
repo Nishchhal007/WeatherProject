@@ -14,6 +14,6 @@ Enter Your City Here!
 
 Weather Forecast - 
 
-![image](https://user-images.githubusercontent.com/84848073/187041438-7148b139-acf0-48ca-b6f2-542157a6e554.png)
+![image](https://user-images.githubusercontent.com/84848073/187041517-0af2be3d-de80-473b-9a7a-4f36f32b04a5.png)
 
 
